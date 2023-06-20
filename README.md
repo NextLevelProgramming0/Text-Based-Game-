@@ -1,4 +1,4 @@
-# Text-Based-Game- My first completed programming project
+# Text-Based-Game- My first completed programming project(Python)
 
 The Project purpose was to create a Text Based Game that would allow a user to input commands to move around a map gathering the necessary items to pass elementary school.
 I did a good job creating a strong foundation for the project with Psuedocode, flowcharts, and easily readable code.
